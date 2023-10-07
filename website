@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Landscape Photography</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Your Landscape Photography</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="home">
+        <h2>Welcome to Your Landscape Photography</h2>
+        <p>Explore the beauty of nature through our lens.</p>
+    </section>
+
+    <section class="gallery">
+        <h2>Gallery</h2>
+        <!-- Add your photo thumbnails here -->
+        <div class="thumbnail">
+            <img src="landscape1.jpg" alt="Landscape Photo 1">
+        </div>
+        <div class="thumbnail">
+            <img src="landscape2.jpg" alt="Landscape Photo 2">
+        </div>
+        <!-- Add more thumbnails as needed -->
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Landscape Photography</p>
+    </footer>
+</body>
+</html>
